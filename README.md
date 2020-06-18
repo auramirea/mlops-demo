@@ -6,6 +6,7 @@
   <img src="docs/images/actions.png" alt="Azure Machine Learning + Actions" height="80"/>
 </p>
 
+
 This template shows the more extensive capabilities of using [GitHub Actions](https://github.com/features/actions) with [Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/) managing a machine learning project with automated training and deployment. For a more simplified version of this automated pipeline, see the [ml-template-azure](https://github.com/machine-learning-apps/ml-template-azure) repository. 
 
 # Getting started
